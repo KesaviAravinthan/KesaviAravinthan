@@ -1,7 +1,7 @@
 ## 💫 Hi There!
 
 ## 💫 About Me:
-I am final year undergraduate student of University of Moratuwa.<br>I am studying in computer science and engineering. <br>I am passionate to work on machine learning and software projects.<br><br>
+Currently pursuing an MS in Data Analytics at Stiftung Universität Hildesheim (expected March 2028).A former Software Engineer at LSEG with a Bachelor’s degree in Computer Science and Engineering from the University of Moratuwa. Contributed to model-based testing, financial trading system development, and front-end solutions using Python, C++, Next.js, and React. Designed responsive and scalable user interfaces, built a mini automated trading system, and implemented Python-based models for financial system testing.  <br><br>
 
 
 ## 🌐 Socials:
